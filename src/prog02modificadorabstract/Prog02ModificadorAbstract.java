@@ -15,7 +15,7 @@ public class Prog02ModificadorAbstract {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("lo cambie ");
+        System.out.println("lo cambie gera noob");
     }
     
 }
